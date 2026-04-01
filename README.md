@@ -1,1 +1,1 @@
-First Commit
+A simple project creator
