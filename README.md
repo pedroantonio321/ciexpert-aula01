@@ -8,3 +8,5 @@ There are a few projects created inside of the folder `prj/`:
 * **ROM:** A simple project trying to make a ROM (Still in progress).
 
 All these projects were made using **SystemVerilog**, but they were not tested with a simulator yet.
+
+The hello.tcl is just a simple Hello World using the TCL Language and can be ignored.
